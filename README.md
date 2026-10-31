@@ -10,4 +10,4 @@ byos!
 
 Things we are starting with: 
 *  https://www.youtube.com/watch?v=zLZwpH5lCD4&si=5Iu1mLg1kSlyEEeB (motivated by a friend who sent this video :D) (thanks if you see this)
-*  learning javascript -> to use p5.js -> for nature of code :p 
+*  learning javascript -> to use p5.js -> for nature of code :p  https://thecodingtrain.com/tracks/code-programming-with-p5-js
