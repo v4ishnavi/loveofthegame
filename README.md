@@ -4,6 +4,7 @@ learning code like a pre-AI plebbian for the love of the game.
 The goal is simple here. Anything written, compiled, and done here will be AI free. 
 The stuff pushed to this repo is not for utility. its for the love of the game. or the precursor to the love of the game. 
 I may use AI to teach me when i dont understand, since i dumb
+
 trying to intention harvest. 
 byos! 
 
